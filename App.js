@@ -10,7 +10,7 @@ export default function App() {
   const [todos, setTodos] = useState([
     { text: 'First todo item', key: '1' },
     { text: 'Second todo item', key: '2' },
-    // { text: 'Third todo item', key: '3' },
+    { text: 'Third todo item', key: '3' },
   ])
 
   //for telling if alert was closed
